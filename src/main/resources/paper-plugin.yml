@@ -1,9 +1,0 @@
-name: AdelloniaSE
-version: '1.0-SNAPSHOT'
-main: dev.scotcher.main.AdelloniaSE
-api-version: '1.21'
-prefix: ADELLONIA
-load: STARTUP
-authors: [ RatzeFatz, ScotcherDev ]
-description: Plugin for Streamer Event
-website: https://scotcher.dev
