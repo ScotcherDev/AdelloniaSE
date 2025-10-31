@@ -31,6 +31,7 @@ public final class AdelloniaSE extends JavaPlugin {
     @Override
     public void onDisable() {
         // Plugin shutdown logic
+        PluginWorldGenerators.regenerateDefaultWorld();
     }
 
     @Override
